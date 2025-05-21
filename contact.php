@@ -28,7 +28,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 <head>
   <meta charset="UTF-8">
   <title>Contact</title>
-  <link rel="stylesheet" href="CSS/css.css">
+  <link rel="stylesheet" href="css/css.css">
   <style>
     form {
       max-width: 500px;
