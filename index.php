@@ -7,7 +7,7 @@ require_once 'functions.php';
 <head>
   <meta charset="UTF-8">
   <title>Home | Portofolio Saya</title>
-  <link rel="stylesheet" href="CSS/css.css">
+  <link rel="stylesheet" href="css/css.css">
 </head>
 <body>
 
