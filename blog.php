@@ -10,7 +10,7 @@ $articles = getAllArticles();
 <head>
   <meta charset="UTF-8">
   <title>Blog | Portofolio Saya</title>
-  <link rel="stylesheet" href="CSS/css.css">
+  <link rel="stylesheet" href="css/css.css">
   <style>
     .blog-list {
       display: grid;
